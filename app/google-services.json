@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918478805642",
+    "firebase_url": "https://streamlined-76eac-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "streamlined-76eac",
+    "storage_bucket": "streamlined-76eac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918478805642:android:d59df5fce507be6f12eb73",
+        "android_client_info": {
+          "package_name": "com.streamlined.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918478805642-rv9t01vhs1rk2b4r85auqnl9rotg9tmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.streamlined.myapplication",
+            "certificate_hash": "ed647521935b8b2e8fdf13bd555eeb5c2fc7fcd7"
+          }
+        },
+        {
+          "client_id": "918478805642-ere8s873fbsipvjmhcqvevgg1qsd8d2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcUWybNLahVRxrV0OYqx1ULX_StKTvvDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918478805642-ere8s873fbsipvjmhcqvevgg1qsd8d2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
